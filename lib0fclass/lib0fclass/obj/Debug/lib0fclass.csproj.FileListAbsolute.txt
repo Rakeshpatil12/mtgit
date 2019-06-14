@@ -1,0 +1,6 @@
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\bin\Debug\lib0fclass.pdb
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\obj\Debug\lib0fclass.csprojResolveAssemblyReference.cache
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\obj\Debug\lib0fclass.pdb
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\bin\Debug\lib0fclass.dll.config
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\bin\Debug\lib0fclass.dll
+C:\Users\CTEAMYSLP0015\Desktop\rakesh\lib0fclass\lib0fclass\obj\Debug\lib0fclass.dll
